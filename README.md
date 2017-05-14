@@ -1,2 +1,4 @@
 # unity
-unity開発用レポジトリ
+Japanese : unity開発用レポジトリ
+English  : development environment of unity
+
